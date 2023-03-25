@@ -38,7 +38,7 @@
 
 ## About The Project
 
-This project is very special to me as a life long gamer. While my passion for immersive content creation is relatively new, I was able to pair it with another long-time passion of mine: games. This project was the hardest challenge I've had with three.js but it was also very enjoyable.
+This project is very special to me as a life long gamer. While my passion for immersive content creation is relatively new, I was able to pair it with another long-time passion of mine: games. This project was the hardest challenge I've had with three.js but it was also one of the most enjoyable.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
